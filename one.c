@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
 int main(){
-    printf("rajil gay");
+    printf("hello world!");
+    return 0;
 }
